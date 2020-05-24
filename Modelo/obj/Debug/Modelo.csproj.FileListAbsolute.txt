@@ -1,0 +1,48 @@
+F:\DS\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+F:\DS\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+F:\DS\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+F:\DS\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+F:\DS\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+F:\DS\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+F:\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+F:\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+F:\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+F:\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+F:\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+F:\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\Modelo\obj\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\bin\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\bin\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\Modelo\obj\Debug\Modelo.pdb

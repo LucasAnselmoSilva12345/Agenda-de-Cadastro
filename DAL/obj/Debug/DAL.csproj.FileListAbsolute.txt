@@ -1,0 +1,99 @@
+F:\DS\prjAgenda2\DAL\bin\Debug\DAL.dll
+F:\DS\prjAgenda2\DAL\bin\Debug\DAL.pdb
+F:\DS\prjAgenda2\DAL\bin\Debug\Modelo.dll
+F:\DS\prjAgenda2\DAL\bin\Debug\MySql.Data.dll
+F:\DS\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+F:\DS\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+F:\DS\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+F:\DS\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\DS\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DS\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\DS\prjAgenda2\DAL\obj\Debug\DAL.dll
+F:\DS\prjAgenda2\DAL\obj\Debug\DAL.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.pdb
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.pdb
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.dll
+C:\Users\Alunos\Documents\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.pdb
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.dll
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.pdb
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.dll
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+F:\prjAgenda2\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+F:\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.dll
+F:\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.pdb
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.pdb
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.dll
+C:\Users\Alunos\Desktop\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.dll
+F:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\DAL.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\prjAgenda2\DAL\obj\Debug\DAL.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.dll
+G:\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.dll
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\Modelo.pdb
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\ETEC FINAL - 03-12-2019\ETEC\Desenvolvimento de Software\prjAgenda2\DAL\obj\Debug\DAL.pdb
