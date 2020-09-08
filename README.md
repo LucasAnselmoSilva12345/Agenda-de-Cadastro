@@ -17,4 +17,4 @@ This project is about a registration agenda, which was developed in class in the
 ##   This software also has a Login system, which together with the rest of the software integrates with a sql database (php myadmin)
 
 ##   Link to view software images
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Anselmo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Anselmo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_programaaexaeto-cabrsharp-visualabrstudio-activity-6621465031802445824-pyyL)
